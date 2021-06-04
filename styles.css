@@ -4,6 +4,7 @@ body {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   background-color: #d8e3e7;
   max-width: 1000px;
+  padding: 2px;
 }
 
 header {
@@ -15,6 +16,7 @@ header {
   padding-bottom: 15px;
   max-width: 1000px;
   font-size: larger;
+  margin-top: 4px;
 }
 
 .titles {
@@ -39,6 +41,7 @@ header {
   font-family: Helvetica, Arial, sans-serif, cursive;
   color: #132c33;
   margin: 8px;
+  font-size: smaller;
 }
 
 #datename {
